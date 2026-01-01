@@ -1,6 +1,13 @@
 # Azure_Olympic_Data_Engineering_Project
 This Repo holds information about Azure data engineering project
 
+Project End to End Documentation:
+
+https://deepwiki.com/ViinayKumaarMamidi/Azure_Olympic_Data_Engineering_Project
+
+https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FViinayKumaarMamidi%2FAzure_Olympic_Data_Engineering_Project
+
+
 **Project Name:** Olympic Data Analytics - Azure End-To-End Data Engineering Project
 
 **Cloud Services Used:**
